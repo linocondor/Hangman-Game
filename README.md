@@ -1,3 +1,3 @@
-#Hungman Game
+#Hangman Game
 
-This is a simple Hungman Game made with python
+This is a simple Hangman Game made with python
